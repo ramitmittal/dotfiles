@@ -1,0 +1,13 @@
+{
+  "editor.minimap.enabled": false,
+  "workbench.editor.tabCloseButton": "left",
+  "workbench.sideBar.location": "right",
+  "telemetry.telemetryLevel": "off",
+  "terminal.integrated.allowChords": false,
+  "extensions.ignoreRecommendations": true,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "workbench.startupEditor": "none",
+  "editor.accessibilitySupport": "off"
+}
